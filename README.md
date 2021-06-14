@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-5685
-Fork on GitHub
-937
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
 <h1 align="center">Hi there👋, I'm Ishan Bakshi</h1>
 <h3 align="center">An Aspiring Data Scientist</h3>
 
