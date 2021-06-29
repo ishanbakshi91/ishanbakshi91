@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning**
 
+- 👯 I’m looking to collaborate on projects related to Machine learning or statistics in Python 
+
 - 👨‍💻 All of my projects are available at [https://ishanbakshi91.github.io/Portfolio/](https://ishanbakshi91.github.io/Portfolio/)
 
 - 📫 How to reach me **ishanbakshi91@gmail.com**
