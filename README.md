@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanbakshi91&label=Profile%20views&color=0e75b6&style=flat" alt="ishanbakshi91" /> </p>
 
-- 🌱 I am a Data Science enthusiast. I have insights into **Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing** and I am extending myself towards Data Engineering, Cloud, and DevOps to achieve a level of Full-Stack Data Science.
+- 🌱 I am a Data Science enthusiast. I have insights into **Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing** and I am extending myself towards **Data Engineering, Cloud, and DevOps** to achieve a level of Full-Stack Data Science.
 
 - 👯 I’m looking to collaborate on projects related to Machine learning or statistics in Python 
 
