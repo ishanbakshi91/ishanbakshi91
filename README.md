@@ -1,5 +1,9 @@
-<h1 align="center">Hi there👋, I'm Ishan Bakshi</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+alt="Waving hand animated gif"
+height="50"
+width="50" />, I'm Ishan Bakshi</h1>
 <h2 align="center">An Aspiring Data Scientist</h2>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanbakshi91&label=Profile%20views&color=0e75b6&style=flat" alt="ishanbakshi91" /> </p>
 
