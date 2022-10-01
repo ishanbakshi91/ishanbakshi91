@@ -2,7 +2,7 @@
 alt="Waving hand animated gif"
 height="50"
 width="50" />, I'm Ishan Bakshi</h1>
-<h2 align="center">An Aspiring Data Scientist</h2>
+<h3 align="center">An Aspiring Data Scientist</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanbakshi91&label=Profile%20views&color=0e75b6&style=flat" alt="ishanbakshi91" /> </p>
@@ -50,16 +50,13 @@ width="50" />, I'm Ishan Bakshi</h1>
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ishanbakshi91&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanbakshi91&theme=vue" />
+	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ishanbakshi91&layout=compact&exclude_lang=java+r&theme=vue" />
 </p>
 
 
 ---
 
-<div align="center">
 
-### Feel Free To Star or Fork the repositories :)
-
-</div>
 
 
 <h3 align="center">Thanks for Visiting!😇</h3
