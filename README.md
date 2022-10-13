@@ -12,6 +12,8 @@ width="50" />, I'm Ishan Bakshi</h1>
 
 <img  align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="gif">
 
+## About Me 🚀
+
 - 🌱 I am a Data Science enthusiast. I have insights into **Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing** and I am extending myself towards **Data Engineering, Cloud, and DevOps** to achieve a level of Full-Stack Data Science.
 
 - 👯 I’m looking to collaborate on projects related to Machine learning or Deep Learning.
@@ -41,6 +43,7 @@ width="50" />, I'm Ishan Bakshi</h1>
 <a href="https://fb.com/ishanbakshi91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishanbakshi91" height="30" width="40" /></a>
 <a href="https://instagram.com/ishan_bakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishan_bakshi" height="30" width="40" /></a>
 <a href="https://medium.com/@ishan_bakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ishan_bakshi" height="30" width="40" /></a>
+<a href="mailto:ishanbakshi91@gmail.com"><img align="center"width="40px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667"  height="40" width="40" /></a>
 </p>
 
 
