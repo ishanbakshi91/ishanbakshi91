@@ -59,14 +59,22 @@ width="50" />, I'm Ishan Bakshi</h1>
 ## 💥 Tools, IDEs and Softwares:
 
 
-## 📟 GitHub Stats
+<!--- ## 📟 GitHub Statistics
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ishanbakshi91&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanbakshi91&theme=vue" />
 	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ishanbakshi91&layout=compact&exclude_lang=java+r&theme=vue" />
+</p> --->
+
+
+<p>
+<h2 align="center">:octocat: Github Statistics </h2>
+
+|💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
+|-----------------------------------|----------------------------------|
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbakshi91&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/ishanbakshi91)|[![Sushant's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ishanbakshi91&theme=midnight-purple&hide_border=true)](https://github.com/ishanbakshi91)
+|[![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanbakshi91&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/ishanbakshi91)|[![Trophies](https://github-profile-trophy.vercel.app/?username=ishanbakshi91&theme=juicyfresh&margin-w=0&no-frame=false)](https://github.com/ishanbakshi91)
 </p>
-
-
 ---
 
 
