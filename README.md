@@ -42,8 +42,8 @@ width="50" />, I'm Ishan Bakshi</h1>
 <a href="https://kaggle.com/ishanbakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ishanbakshi" height="30" width="40" /></a>
 <a href="https://fb.com/ishanbakshi91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishanbakshi91" height="30" width="40" /></a>
 <a href="https://instagram.com/ishan_bakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishan_bakshi" height="30" width="40" /></a>
-<a href="https://medium.com/@ishan_bakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ishan_bakshi" height="30" width="40" /></a>
-<a href="mailto:ishanbakshi91@gmail.com"><img align="center"width="40px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667"  height="40" width="40" /></a>
+<a href="https://medium.com/@ishan_bakshi" target="blank"><img align="center" src="https://img.icons8.com/sf-black-filled/344/medium-logo.png" alt="@ishan_bakshi" height="45" width="50" /></a>
+<a href="mailto:ishanbakshi91@gmail.com"><img align="center"width="40px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667"  height="50" width="40" /></a>
 </p>
 
 
