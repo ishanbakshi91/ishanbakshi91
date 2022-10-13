@@ -4,6 +4,9 @@ height="50"
 width="50" />, I'm Ishan Bakshi</h1>
 <h3 align="center">An Aspiring Data Scientist</h3>
 
+<!--- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=AI+Enthusiast;Data+Science+Enthusiast;Programmer;Machine+Learning+Enthusiast;Deep+Learning+Enthusiast;)](https://git.io/typing-svg) --->
+ 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanbakshi91&label=Profile%20views&color=0e75b6&style=flat" alt="ishanbakshi91" /> </p>
 
@@ -11,7 +14,7 @@ width="50" />, I'm Ishan Bakshi</h1>
 
 - 🌱 I am a Data Science enthusiast. I have insights into **Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing** and I am extending myself towards **Data Engineering, Cloud, and DevOps** to achieve a level of Full-Stack Data Science.
 
-- 👯 I’m looking to collaborate on projects related to Machine learning or statistics in Python 
+- 👯 I’m looking to collaborate on projects related to Machine learning or Deep Learning.
 
 - 👨‍💻 All of my projects are available in my [**Portfolio**](https://ishanbakshi91.github.io/Portfolio/)
 
