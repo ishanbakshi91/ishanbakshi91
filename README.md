@@ -34,6 +34,8 @@ width="50" />, I'm Ishan Bakshi</h1>
 
 >Looking for a driven person who can serve as a DATA SCIENTIST, AI/ML ENGINEER with annoying attention to detail and a voracious appetite to learn new things and grow? You've got me!
 
+
+<!--- <img align="right" alt="Coding" width="400" src="https://w0.peakpx.com/wallpaper/106/535/HD-wallpaper-pc-gamer.jpg"> --->
                                      
 ## 🌐Connect with me:<img target="_blank" src="https://i.imgur.com/y6gRBGy.png" height = "30.7"/>
 <p align="left">
@@ -75,7 +77,7 @@ width="50" />, I'm Ishan Bakshi</h1>
 |[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbakshi91&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/ishanbakshi91)|[![Sushant's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ishanbakshi91&theme=midnight-purple&hide_border=true)](https://github.com/ishanbakshi91)
 |[![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanbakshi91&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/ishanbakshi91)|[![Trophies](https://github-profile-trophy.vercel.app/?username=ishanbakshi91&theme=juicyfresh&margin-w=0&no-frame=false)](https://github.com/ishanbakshi91)
 </p>
----
+
 
 
 
