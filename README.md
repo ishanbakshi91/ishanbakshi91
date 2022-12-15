@@ -80,8 +80,11 @@ width="50" />, I'm Ishan Bakshi</h1>
 
 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 <h3 align="center">Thanks for Visiting!😇</h3
   
 
+---
