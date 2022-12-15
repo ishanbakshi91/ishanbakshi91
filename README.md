@@ -14,7 +14,8 @@ width="50" />, I'm Ishan Bakshi</h1>
 
 # About Me 🚀
 
-- 🌱 I am a Data Science enthusiast. I have insights into **Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing** and I am extending myself towards **Data Engineering, Cloud, and DevOps** to achieve a level of Full-Stack Data Science.
+- 🌱 I am a ***Data Science*** enthusiast. I have insights into ***Machine Learning, Deep Learning, Computer Vision and Natural Language Processing*** and I am extending myself towards ***Data Engineering, Cloud and MLOps*** to achieve a level of ***Full-Stack Data Science***.
+
 
 - 👯 I’m looking to collaborate on projects related to Machine learning or Deep Learning.
 
