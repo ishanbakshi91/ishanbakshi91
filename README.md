@@ -37,6 +37,8 @@ width="50" />, I'm Ishan Bakshi</h1>
 
 
 <!--- <img align="right" alt="Coding" width="400" src="https://w0.peakpx.com/wallpaper/106/535/HD-wallpaper-pc-gamer.jpg"> --->
+
+<hr>
                                      
 # 🌐Connect with me:<img target="_blank" src="https://i.imgur.com/y6gRBGy.png" height = "30.7"/>
 <p align="left">
@@ -51,15 +53,62 @@ width="50" />, I'm Ishan Bakshi</h1>
 
 
 # 💻 Tech Stack
-<hr>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
 ## 🔥 Languages:
 
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="44" height="44"/>
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/452/c-programming.png" alt="express" width="44" height="44"/> </a> 
+  <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/74402/mongodb.png" alt="express" width="44" height="44"/> </a>
+</p>
+
+
 ## ⭐ Libraries and Frameworks:
 
+<p align="left"> 
+     <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+     <a href="https://numpy.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2JRr92k_oDy42tMe3RPwfU0r_5Rk_S2jwlU2WphT94jFMCRCbjASEZ7j1wbD2CPOzx6w&usqp=CAU" alt="express" width="44" height="44" / > </a>
+    <a href="https://matplotlib.org/" target="_blank"> <img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" alt="express" width="44" height="44"/> </a> 
+    <a href="https://www.anaconda.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZuGFq2Tj9gvDP6Dm7w5TeYGrmCy0KOtwc8tvDsy606EmhjdsUZV_qx-RbQGhA-KDW3Y&usqp=CAU" alt="pytorch" width="48" height="48" /> </a> 
+    <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" alt="express" width="44" height="44"/> </a> 
+    <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+    <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="express" width="44" height="44"/> </a>
+  <a href="https://www.scipy.org/"> <img src="https://miro.medium.com/max/400/1*ejeltApvDzDBB9izIwnyiQ.png" width="40" height="40"/> </a>
+     <a href="https://spacy.io/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/699256981287100416/7-7zis8f_400x400.png" alt="pytorch" width="40" height="40"/> </a> 
+    <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="pytorch" width="40" height="40"/> </a>   
+    <a href="https://opencv.org/" target="_blank"> <img src="https://www.kindpng.com/picc/m/376-3766513_opencv-icon-hd-png-download.png" alt="pytorch" width="44" height="40"/> </a> 
+</p>
+
 ## 💥 Tools, IDEs and Softwares:
+
+<p align="left"> 
+    <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4nmLnUDqDJMNYnvoIw2LrMP67vPbDNngRztSxwDftPQ7Hjk6gtHYIOwjQuCU0CILeT8&usqp=CAU" alt="express" width="43" height="39" /> </a> 
+    <a href="https://code.visualstudio.com/"> <img src="https://img.icons8.com/fluency/344/visual-studio.png" alt="express" width="46" height="47"/ > </a>
+    <a href="https://jupyter.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQfO8XdRaElU-oiMX4jJFWjNO56ihBj8vLWl-8tZR0xFr4LL4nfzfXWLVCFeOjsGAZF4&usqp=CAU" alt="express" width="44" height="44"/> </a> 
+  <a href="https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true" target="_blank"> <img src="https://miro.medium.com/max/1042/1*L2u_koKpa1lcjvB8DEDHsg.jpeg" alt="express" width="44" height="44"/> </a> 
+   <a href="https://www.codeblocks.org/" target="_blank"> <img src="https://1.bp.blogspot.com/-h9D36wzWc1E/WRHtrvRXlyI/AAAAAAAABPI/3MGZ1bpRPTYYxFWOkV-QwsXzY9klH-84gCLcB/s400/code%2Bblock%2Blogo.jpg" alt="express" width="43" height="40" /> </a> 
+  <a href="https://www.jetbrains.com/pycharm/"> <img src="https://miro.medium.com/max/1200/1*6Dhu1H4t028lOGbaZuyRCw.png" alt="express" width="43" height="40" /> </a>
+  <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://d11wkw82a69pyn.cloudfront.net/wm-reply/siteassets/images/power%20bi.png" alt="express" width="43" height="40" /> </a>  
+  <a href="https://uneecops.com/lpage/tableau-software-landing-page/?lead=Marketing%20Team&data=Pay%20per%20Click%20Ads&leadtype=BI&service=Tableau&utm_term=tablu&utm_campaign=Tableau+BI&utm_source=adwords&utm_medium=ppc&hsa_acc=8552612374&hsa_cam=1615962432&hsa_grp=61145525276&hsa_ad=518466757380&hsa_src=g&hsa_tgt=kwd-301142873929&hsa_kw=tablu&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw_8mHBhClARIsABfFgpjsZ7xm6kFh91pMncn7q1OAIqVApO9Uae5JTl9YNamEy5dnCO3C9TQaAmS_EALw_wcB" target="_blank"> <img src="https://logowik.com/content/uploads/images/tableau-software.jpg" alt="express" width="43" height="37" /> </a> 
+  <a href="https://www.mathworks.com/products/matlab.html"> <img src="https://img.stackshare.io/service/1214/h5g3etjnacmazg8oq17z.jpeg" alt="express" width="43" height="37" /></a>
+  </a>
+  </p>
+  
+## 📊 Databases:
+<a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="44" height="44"/>
+	
+
+
+
+  <br>
+  <br>
+  <br>
 
 
 <!--- ## 📟 GitHub Statistics
