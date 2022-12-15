@@ -106,8 +106,13 @@ width="50" />, I'm Ishan Bakshi</h1>
 |[![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanbakshi91&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/ishanbakshi91)|[![Trophies](https://github-profile-trophy.vercel.app/?username=ishanbakshi91&theme=juicyfresh&margin-w=0&no-frame=false)](https://github.com/ishanbakshi91)
 </p>
 
+📈 my github stats
 
+<img src="https://github-readme-stats.vercel.app/api?username=ishanbakshi91&show_icons=true&theme=midnight-purple" alt="ishanbakshi91" />
+	
+![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanbakshi91&show_icons=true&theme=midnight-purple&hide_title=false)
 
+	
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
