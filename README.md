@@ -102,15 +102,15 @@ width="50" />, I'm Ishan Bakshi</h1>
 
 |💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
 |-----------------------------------|----------------------------------|
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbakshi91&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/ishanbakshi91)|[![Ishan's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ishanbakshi91&theme=midnight-purple&hide_border=true)](https://github.com/ishanbakshi91)
-|[![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanbakshi91&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/ishanbakshi91)|[![Trophies](https://github-profile-trophy.vercel.app/?username=ishanbakshi91&theme=juicyfresh&margin-w=0&no-frame=false)](https://github.com/ishanbakshi91)
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbakshi91&show_icons=true&theme=midnight-purple&layout=compact&hide_title=false)](https://github.com/ishanbakshi91)|[![Ishan's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ishanbakshi91&theme=midnight-purple&hide_border=false)](https://github.com/ishanbakshi91)
+|[![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanbakshi91&show_icons=true&theme=midnight-purple&hide_title=false)](https://github.com/ishanbakshi91)|[![Trophies](https://github-profile-trophy.vercel.app/?username=ishanbakshi91&theme=juicyfresh&margin-w=0&no-frame=false)](https://github.com/ishanbakshi91)
 </p>
 
-📈 my github stats
+<!---📈 my github stats--->
 
-<img src="https://github-readme-stats.vercel.app/api?username=ishanbakshi91&show_icons=true&theme=midnight-purple" alt="ishanbakshi91" />
+<!---<img src="https://github-readme-stats.vercel.app/api?username=ishanbakshi91&show_icons=true&theme=midnight-purple" alt="ishanbakshi91" />--->
 	
-![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanbakshi91&show_icons=true&theme=midnight-purple&hide_title=false)
+<!---![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanbakshi91&show_icons=true&theme=midnight-purple&hide_title=false)--->
 
 	
 ### ✍️ Random Dev Quote
