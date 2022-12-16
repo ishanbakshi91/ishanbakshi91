@@ -1,7 +1,7 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
 alt="Waving hand animated gif"
 height="50"
-width="50" />, I'm Ishan Bakshi</h1>
+width="50" /> I'm Ishan Bakshi</h1>
 <h3 align="center">An Aspiring Data Scientist</h3>
 
 <!--- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=AI+Enthusiast;Data+Science+Enthusiast;Programmer;Machine+Learning+Enthusiast;Deep+Learning+Enthusiast;)](https://git.io/typing-svg) --->
