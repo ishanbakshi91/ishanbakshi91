@@ -3,8 +3,11 @@ alt="Waving hand animated gif"
 height="50"
 width="50" /> I'm Ishan Bakshi</h1>
 <h3 align="center">An Aspiring Data Scientist</h3>
+<div id="header" align="center">
+  <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="Computer man" width="100"/>
+</div>
 
-<!--- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=AI+Enthusiast;Data+Science+Enthusiast;Programmer;Machine+Learning+Enthusiast;Deep+Learning+Enthusiast;)](https://git.io/typing-svg) --->
+<!---[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=AI+Enthusiast;Data+Science+Enthusiast;Programmer;Machine+Learning+Enthusiast;Deep+Learning+Enthusiast;)](https://git.io/typing-svg) --->
  
 
 
@@ -63,10 +66,9 @@ width="50" /> I'm Ishan Bakshi</h1>
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="44" height="44"/>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/452/c-programming.png" alt="express" width="44" height="44"/> </a> 
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="44" height="44"/> 
   <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/74402/mongodb.png" alt="express" width="44" height="44"/> </a>
 </p>
 
@@ -74,8 +76,14 @@ width="50" /> I'm Ishan Bakshi</h1>
 ## ⭐ Libraries and Frameworks:
 
 <p align="left"> 
-     <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-     <a href="https://numpy.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2JRr92k_oDy42tMe3RPwfU0r_5Rk_S2jwlU2WphT94jFMCRCbjASEZ7j1wbD2CPOzx6w&usqp=CAU" alt="express" width="44" height="44" / > </a>
+	<a href="https://pandas.pydata.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/></a>
+     <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+	<a href="https://numpy.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="50" height="50"/></a>
+  <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/1280px-scikit-learn-logo.png" title="Sklearn" alt="Sklearn" width="50" height="50"/></a>
+   <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" alt="express" width="44" height="44"/> </a> 
+    <a href="https://matplotlib.org/" target="_blank"> <img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" alt="express" width="44" height="44"/> </a> 
+     <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+	<a href="https://numpy.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2JRr92k_oDy42tMe3RPwfU0r_5Rk_S2jwlU2WphT94jFMCRCbjASEZ7j1wbD2CPOzx6w&usqp=CAU" alt="express" width="44" height="44" / > </a>
     <a href="https://matplotlib.org/" target="_blank"> <img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" alt="express" width="44" height="44"/> </a> 
     <a href="https://www.anaconda.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZuGFq2Tj9gvDP6Dm7w5TeYGrmCy0KOtwc8tvDsy606EmhjdsUZV_qx-RbQGhA-KDW3Y&usqp=CAU" alt="pytorch" width="48" height="48" /> </a> 
     <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" alt="express" width="44" height="44"/> </a> 
