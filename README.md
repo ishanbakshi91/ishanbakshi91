@@ -41,7 +41,7 @@ width="50" /> I'm Ishan Bakshi</h1>
 
 <!--- <img align="right" alt="Coding" width="400" src="https://w0.peakpx.com/wallpaper/106/535/HD-wallpaper-pc-gamer.jpg"> --->
 
-<hr>
+---
                                      
 # 🌐Connect with me:<img target="_blank" src="https://i.imgur.com/y6gRBGy.png" height = "30.7"/>
 <p align="left">
