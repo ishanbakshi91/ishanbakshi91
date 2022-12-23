@@ -110,7 +110,7 @@ width="50" /> I'm Ishan Bakshi</h1>
   </p>
   
 ## 📊 Databases:
-<a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="44" height="44"/>
+<a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="45" height="45"/>
 	
 <div>
   <a href="https://www.python.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
