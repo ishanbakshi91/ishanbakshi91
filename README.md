@@ -127,6 +127,7 @@ width="50" /> I'm Ishan Bakshi</h1>
 
   <br>
   <br>
+  <br>
   
 
 
@@ -185,7 +186,7 @@ width="50" /> I'm Ishan Bakshi</h1>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+<br>
 <h2 align="center">Thanks for Visiting!😇</h2>
   
 
