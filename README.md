@@ -182,7 +182,11 @@ width="55" /> I'm Ishan Bakshi</h1>
 <!---![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanbakshi91&show_icons=true&theme=midnight-purple&hide_title=false)--->
 
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbakshi91)](https://github.com/anuraghazra/github-readme-stats)--->
-	
+
+
+<!---### [Wakatime-stats](https://github.com/ishanbakshi91-readme-stats) - [ishanbakshi91]([https://github.com/anmol098](https://github.com/ishanbakshi91))
+![preview](https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png)--->
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
