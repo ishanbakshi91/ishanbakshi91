@@ -147,12 +147,12 @@ width="55" /> I'm Ishan Bakshi</h1>
 | Programming | Python,Scala, C , C++ , Java |
 | DataBase | Oracle, MySQL |
 | Tools/ IDE | PyCharm, VSCode, Jupyter Notebook |
-| Machine Learning | EDA, ML-Algorithms, Execution with python |
-| Deep Learning | Neural Networks , Computer Vision, Transfer learning, Execution with Python |
-| Natural Language Processing | Neural Network , Transfer learning, Execution with Python |
+| Machine Learning | EDA, ML-Algorithms, Execution with Python |
+| Deep Learning | Neural Networks, Computer Vision, Transfer learning, Execution with Python |
+| Natural Language Processing | Neural Network, Transfer learning, Execution with Python |
 | Big Data | Hadoop , Spark |
 | Cloud | Basic AWS |
-| Operating System | MacOs, Windows, Linux |
+| Operating System | macOS, Windows, Linux |
 | Hardware | Tesla T4 from google colab |
 | Version control | GIT |
 
@@ -160,8 +160,8 @@ width="55" /> I'm Ishan Bakshi</h1>
 
 | Skill | Technologies used to work or Known | 
 |:--|:------------|
-| Python | Numpy, Pandas,Spark ,Matplotlib, Seaborn, Plotly, Scikit-Learn, pickle, Keras, Open-cv, Tensorflow, Pytorch |
-| Machine Learning | Linear Regression, Logistic Regression, Decision Tree, Support vector machine, Naive Bayes, Ensemble technique, Hyper parameter tunning  |
+| Python | Numpy, Pandas, Spark, Matplotlib, Seaborn, Plotly, Scikit-Learn, pickle, Keras, Open-cv, Tensorflow, Pytorch |
+| Machine Learning | Linear Regression, Logistic Regression, Decision Tree, Support vector machine, Naive Bayes, Ensemble technique, Hyperparameter tunning  |
 | Deep Learning | Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, LeNET, AlexNet, VGG, Resnet, InceptionNet |
 | Computer Vision | RCNN family , Yolo family , SSD, Object segmentation(Mask-RCNN) , Object Tracking  |
 | Natural Language Processing | Encoder-Decoder, Self Attention, Transformer, Transfer Learning models |--->
@@ -183,9 +183,14 @@ width="55" /> I'm Ishan Bakshi</h1>
 
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbakshi91)](https://github.com/anuraghazra/github-readme-stats)--->
 
+<!---
+| . | . | . |
+|-----|------|------|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishanbakshi91&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishanbakshi91&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishanbakshi91&theme=dracula)|
 
-<!---### [Wakatime-stats](https://github.com/ishanbakshi91-readme-stats) - [ishanbakshi91]([https://github.com/anmol098](https://github.com/ishanbakshi91))
-![preview](https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png)--->
+[stats]: https://github-readme-stats.vercel.app/api?username=ishanbakshi91&show_icons=true&count_private=false&theme=radical&hide=issues,commits&hide_rank=true&custom_title=Ishan's%20Stats
+[hexapod]: https://hexapod.netlify.app/  --->
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
