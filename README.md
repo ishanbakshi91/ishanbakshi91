@@ -20,11 +20,11 @@ width="55" /> I'm Ishan Bakshi</h1>
 - 🌱 I am a ***Data Science*** enthusiast. I have insights into ***Machine Learning, Deep Learning, Computer Vision and Natural Language Processing*** and I am extending myself towards ***Data Engineering, Cloud and MLOps*** to achieve a level of ***Full-Stack Data Science***.
 
 
-- 👯 I’m looking to collaborate on projects related to Machine learning or Deep Learning.
+<!--- - 👯 I’m looking to collaborate on projects related to Machine learning or Deep Learning.
 
-- 👨‍💻 All of my projects are available in my [**Portfolio**](https://ishanbakshi91.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available in my [**Portfolio**](https://ishanbakshi91.github.io/Portfolio/)  
 
-- 📫 How to reach me **ishanbakshi91@gmail.com**
+- 📫 How to reach me **ishanbakshi91@gmail.com**   ---> 
 
 ### How do I help machines "learn"? <img target="_blank" src="https://i.imgur.com/tTJgCkz.png" height = "30.7"/>
 
@@ -127,7 +127,7 @@ width="55" /> I'm Ishan Bakshi</h1>
 
   <br>
   <br>
-  <br>   <!---
+  <br>   --->
   
 
 
