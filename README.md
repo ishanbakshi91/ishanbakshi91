@@ -36,7 +36,7 @@ width="55" /> I'm Ishan Bakshi</h1>
 <img target="_blank" src="https://i.imgur.com/UqXfMdN.png" width = "17"/>Writing clean & understandable code.<br>
 <img target="_blank" src="https://i.imgur.com/UqXfMdN.png" width = "17"/>Designing informative & beautiful visualizations from the data.<br>
 
->Looking for a driven person who can serve as a DATA SCIENTIST, AI/ML ENGINEER with annoying attention to detail and a voracious appetite to learn new things and grow? You've got me!
+>Looking for a driven person who can serve as a DATA SCIENTIST, or AI/ML ENGINEER with annoying attention to detail and a voracious appetite to learn new things and grow? You've got me!
 
 
 <!--- <img align="right" alt="Coding" width="400" src="https://w0.peakpx.com/wallpaper/106/535/HD-wallpaper-pc-gamer.jpg"> --->
