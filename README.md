@@ -175,7 +175,7 @@ width="55" /> I'm Ishan Bakshi</h1>
 |![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanbakshi91&show_icons=true&theme=midnight-purple&hide_title=false)|![Trophies](https://github-profile-trophy.vercel.app/?username=ishanbakshi91&theme=juicyfresh&margin-w=0&no-frame=false&no-bg=false)
 </p>
 
-juicyfresh&margin-w=0&no-frame=false)
+
 <!---
 
 <p>
