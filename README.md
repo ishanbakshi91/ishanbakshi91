@@ -18,7 +18,7 @@ width="55" /> I'm Ishan Bakshi</h1>
 
 # About Me 🚀
 
-- 🌱 I am a ***Data Science*** enthusiast. I have insights into ***Python, Machine Learning, Deep Learning, Computer Vision and Natural Language Processing*** and I am extending myself towards ***Data Engineering, Cloud and MLOps*** to achieve a level of ***Full-Stack Data Scientist***.
+- 🌱 I am a ***Data Science*** enthusiast. I have insights into ***Python, SQL, Machine Learning, Deep Learning, Computer Vision and Natural Language Processing*** and I am extending myself towards ***Data Engineering, Cloud and MLOps*** to achieve a level of ***Full-Stack Data Scientist***.
 
 
 <!--- - 👯 I’m looking to collaborate on projects related to Machine learning or Deep Learning.
@@ -199,7 +199,7 @@ width="55" /> I'm Ishan Bakshi</h1>
 
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 350px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
 <br>
