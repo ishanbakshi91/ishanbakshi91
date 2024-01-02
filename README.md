@@ -40,23 +40,22 @@ width="55" /> I'm Ishan Bakshi</h1>
 >Looking for a driven person who can serve as a DATA SCIENTIST, or AI/ML ENGINEER with annoying attention to detail and a voracious appetite to learn new things and grow? You've got me!
 
 
-<!--- <img align="right" alt="Coding" width="400" src="https://w0.peakpx.com/wallpaper/106/535/HD-wallpaper-pc-gamer.jpg"> --->
+ <!--- <img align="right" alt="Coding" width="400" src="https://w0.peakpx.com/wallpaper/106/535/HD-wallpaper-pc-gamer.jpg"> --->
 
 ---
                                      
 # 🌐Connect with me:<img target="_blank" src="https://i.imgur.com/y6gRBGy.png" height = "30.7"/>
 <p align="left">
-<a href="https://twitter.com/ishan_bakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishan_bakshi" height="35" width="40" /></a>
-<a href="https://www.linkedin.com/in/ishanbakshi/"><img align="center" width="35px" height="35px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"  /></a>
-<!---<a href="https://linkedin.com/in/ishanbakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishanbakshi" height="30" width="40" /></a> --->
+<a href="https://twitter.com/ishan_bakshi" target="blank"><img align="center" src="https://github.com/ishanbakshi91/ishanbakshi91/assets/83632532/af0bb472-ff69-414c-b66c-1f67c47bb7a4" alt="ishan_bakshi" height="50" width="50" /></a>
+<!--- <a href="https://www.linkedin.com/in/ishanbakshi/"><img align="center" width="35px" height="35px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"  /></a> --->
+<a href="https://linkedin.com/in/ishanbakshi" target="blank"><img align="center" src="https://github.com/ishanbakshi91/ishanbakshi91/assets/83632532/76bc03be-d803-4e11-b794-bbd0f7ac5d82" alt="ishanbakshi" height="50" width="50" /></a>
 <a href="https://kaggle.com/ishanbakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ishanbakshi" height="35" width="40" /></a>
 <a href="https://fb.com/ishanbakshi91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishanbakshi91" height="35" width="40" /></a>
-<a href="https://instagram.com/ishan_bakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishan_bakshi" height="35" width="40" /></a>
-<a href="https://medium.com/@ishan_bakshi" target="blank"><img align="center" src="https://img.icons8.com/sf-black-filled/344/medium-logo.png" alt="@ishan_bakshi" height="50" width="50" /></a>
-<a href="mailto:ishanbakshi91@gmail.com"><img align="center"width="40px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667"  height="50" width="45" /></a>
+<a href="https://instagram.com/ishan_bakshi" target="blank"><img align="center" src="https://github.com/ishanbakshi91/ishanbakshi91/assets/83632532/dd8c7e07-1e6e-4981-891c-3160501887b6" alt="ishan_bakshi" height="50" width="50" /></a>
+<a href="https://medium.com/@ishan_bakshi" target="blank"><img align="center" src="https://img.icons8.com/sf-black-filled/344/medium-logo.png" alt="@ishan_bakshi" height="60" width="60" /></a>
+<a href="mailto:ishanbakshi91@gmail.com"><img align="center"width="40px" src="https://github.com/ishanbakshi91/ishanbakshi91/assets/83632532/f95b7827-81e4-4f11-8e2f-63ee2487a9fe"  height="50" width="60" /></a>
 
 
-	
 </p>
 
 # 💻 Tech Stack
@@ -173,8 +172,35 @@ width="55" /> I'm Ishan Bakshi</h1>
 |💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
 |-----------------------------------|----------------------------------|
 |![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbakshi91&show_icons=true&theme=midnight-purple&layout=compact&hide_title=false)|![Ishan's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ishanbakshi91&theme=midnight-purple&hide_border=false)
+|![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanbakshi91&show_icons=true&theme=midnight-purple&hide_title=false)|![Trophies](https://github-profile-trophy.vercel.app/?username=ishanbakshi91&theme=juicyfresh&margin-w=0&no-frame=false&no-bg=false)
+</p>
+
+juicyfresh&margin-w=0&no-frame=false)
+<!---
+
+<p>
+<h2 align="center">:octocat: Github Statistics </h2>
+
+|💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
+|-----------------------------------|----------------------------------|
+|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbakshi91&show_icons=true&theme=midnight-purple&layout=compact&hide_title=false)|![Ishan's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ishanbakshi91&theme=midnight-purple&hide_border=false)
 |![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanbakshi91&show_icons=true&theme=midnight-purple&hide_title=false)|![Trophies](https://github-profile-trophy.vercel.app/?username=ishanbakshi91&theme=juicyfresh&margin-w=0&no-frame=false)
 </p>
+--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!---📈 my github stats--->
 
@@ -190,7 +216,7 @@ width="55" /> I'm Ishan Bakshi</h1>
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishanbakshi91&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishanbakshi91&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishanbakshi91&theme=dracula)|
 
 [stats]: https://github-readme-stats.vercel.app/api?username=ishanbakshi91&show_icons=true&count_private=false&theme=radical&hide=issues,commits&hide_rank=true&custom_title=Ishan's%20Stats
-[hexapod]: https://hexapod.netlify.app/  --->
+[hexapod]: https://hexapod.netlify.app/ --->
 
 
 ### ✍️ Random Dev Quote
