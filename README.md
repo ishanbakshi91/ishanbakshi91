@@ -50,10 +50,10 @@ width="55" /> I'm Ishan Bakshi</h1>
 <!--- <a href="https://www.linkedin.com/in/ishanbakshi/"><img align="center" width="35px" height="35px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"  /></a> --->
 <a href="https://linkedin.com/in/ishanbakshi" target="blank"><img align="center" src="https://github.com/ishanbakshi91/ishanbakshi91/assets/83632532/76bc03be-d803-4e11-b794-bbd0f7ac5d82" alt="ishanbakshi" height="50" width="50" /></a>
 <a href="https://kaggle.com/ishanbakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ishanbakshi" height="35" width="40" /></a>
-<a href="https://fb.com/ishanbakshi91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishanbakshi91" height="35" width="40" /></a>
+<a href="https://fb.com/ishanbakshi91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishanbakshi91" height="40" width="40" /></a>
 <a href="https://instagram.com/ishan_bakshi" target="blank"><img align="center" src="https://github.com/ishanbakshi91/ishanbakshi91/assets/83632532/dd8c7e07-1e6e-4981-891c-3160501887b6" alt="ishan_bakshi" height="50" width="50" /></a>
-<a href="https://medium.com/@ishan_bakshi" target="blank"><img align="center" src="https://img.icons8.com/sf-black-filled/344/medium-logo.png" alt="@ishan_bakshi" height="60" width="60" /></a>
-<a href="mailto:ishanbakshi91@gmail.com"><img align="center"width="40px" src="https://github.com/ishanbakshi91/ishanbakshi91/assets/83632532/f95b7827-81e4-4f11-8e2f-63ee2487a9fe"  height="50" width="60" /></a>
+<a href="https://medium.com/@ishan_bakshi" target="blank"><img align="center" src="https://img.icons8.com/sf-black-filled/344/medium-logo.png" alt="@ishan_bakshi" height="50" width="50" /></a>
+<a href="mailto:ishanbakshi91@gmail.com"><img align="center"width="40px" src="https://github.com/ishanbakshi91/ishanbakshi91/assets/83632532/f95b7827-81e4-4f11-8e2f-63ee2487a9fe"  height="50" width="70" /></a>
 
 
 </p>
