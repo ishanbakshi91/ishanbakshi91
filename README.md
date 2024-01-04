@@ -229,7 +229,7 @@ width="55" /> I'm Ishan Bakshi</h1>
 
 
 <br>
-<h2 align="center">Thanks for Visiting!😇</h2>
+<h1 align="center">Thanks for Visiting!😇</h1>
 
 
 
