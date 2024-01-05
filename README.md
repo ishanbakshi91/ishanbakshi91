@@ -27,7 +27,7 @@ width="55" /> I'm Ishan Bakshi</h1>
 
 - 📫 How to reach me **ishanbakshi91@gmail.com**   ---> 
 
-### How do I help machines "learn"? <img target="_blank" src="https://i.imgur.com/tTJgCkz.png" height = "30.7"/>
+### How do I help machines "learn"? <img target="_blank" src="https://i.imgur.com/tTJgCkz.png" height = "30.5"/>
 
 <img target="_blank" src="https://i.imgur.com/UqXfMdN.png" width = "17"/>Working with Machine Learning Algorithms (Linear, Logistic, Ridge, Lasso, KMeans, Random Forests, XGBoost, Neural Networks, etc...).<br>
 <img target="_blank" src="https://i.imgur.com/UqXfMdN.png" width = "17"/>Working on data gathering pipelines.<br>
