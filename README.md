@@ -254,9 +254,12 @@ My programming, statistics & finance coursework has provided me with the analyti
 
 
 
-### 😂 Random Dev Meme
-<img src="https://codermemes.vercel.app" style="height: 400px;"/>
+<!--- ### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src="https://codermemes.vercel.app" style="height: 400px;"/>  --->
 
+
+<img src="https://codermemes.vercel.app/" style="height: 400px;"/>
 
 <br>
 <h1 align="center">Thanks for Visiting!😇</h1>
