@@ -65,8 +65,14 @@ My programming, statistics & finance coursework has provided me with the analyti
 <a href="https://kaggle.com/ishanbakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ishanbakshi" height="35" width="40" /></a>
 <a href="https://fb.com/ishanbakshi91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishanbakshi91" height="40" width="40" /></a>
 <a href="https://instagram.com/ishan_bakshi" target="blank"><img align="center" src="https://github.com/ishanbakshi91/ishanbakshi91/assets/83632532/dd8c7e07-1e6e-4981-891c-3160501887b6" alt="ishan_bakshi" height="50" width="50" /></a>
-<a href="https://medium.com/@ishan_bakshi" target="blank"><img align="center" src="https://img.icons8.com/sf-black-filled/344/medium-logo.png" alt="@ishan_bakshi" height="50" width="50" /></a>
-<a href="mailto:ishanbakshi91@gmail.com"><img align="center"width="40px" src="https://github.com/ishanbakshi91/ishanbakshi91/assets/83632532/f95b7827-81e4-4f11-8e2f-63ee2487a9fe"  height="50" width="70" /></a>
+<a href="https://medium.com/@ishan_bakshi" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=110611&format=png&color=000000" alt="@ishan_bakshi" height="50" width="50" /></a>
+<a href="mailto:ishanbakshi91@gmail.com"><img align="center"width="40px" src="https://github.com/ishanbakshi91/ishanbakshi91/assets/83632532/f95b7827-81e4-4f11-8e2f-63ee2487a9fe"  height="50" width="50" /></a>
+
+
+
+
+
+
 
 
 </p>
