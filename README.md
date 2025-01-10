@@ -21,13 +21,13 @@ width="55" /> I'm Ishan Bakshi</h1>
 
 # About Me 🚀
 
-- 🔭 I am a ***Data Science*** enthusiast. I have insights into ***Python, SQL, Machine Learning, Deep Learning, Computer Vision and Natural Language Processing*** and I am extending myself towards ***Data Engineering, Gen AI, Cloud and MLOps*** to achieve a level of ***Full-Stack Data Scientist***.
+- 🔭 I am a ***Data Science*** enthusiast. I have insights into ***Python, SQL, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, GenAI, and MLOps*** and I am extending myself towards ***Data Engineering, Gen AI, Cloud and MLOps*** to achieve a level of ***Full-Stack Data Scientist***.
 
 - 🌱 Data is the new Oil. The sheer power of data drove me to initiate my journey into the mysterious world of Data Science.
 
-<!--- - Like many others, my initial interest lay in building real-world applications, I was fascinated by building logic for simple programming problems. I realized my passion upon switching to Data analytics. Data Science has been my primary point of interest for a year now, and my zest lies in Machine Learning. I am currently working as an Associate Data Scientist at .
+<!--- - Like many others, my initial interest lay in building real-world applications, I was fascinated by building logic for simple programming problems. I realized my passion upon switching to Data analytics. Data Science has been my primary point of interest for a year now, and my zest lies in Machine Learning. I am currently working as an associate data scientist.
 
-My programming, statistics & finance coursework has provided me with the analytical skills I apply to diverse business scenarios. My zeal to learn, coupled with my ability to collaborate and accomplish goals makes me well-suited for a career in the field of Data Science and business analytics. I'm looking forward to being interviewed to share more about my experience and the skills that I could bring to any company. --->
+My programming, statistics & finance coursework has given me the analytical skills I apply to diverse business scenarios. My zeal to learn, coupled with my ability to collaborate and accomplish goals makes me well-suited for a career in the field of Data Science and business analytics. I'm looking forward to being interviewed to share more about my experience and the skills I could bring to any company. --->
 
 
 
