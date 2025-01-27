@@ -2,7 +2,7 @@
 alt="Waving hand animated gif"
 height="55"
 width="55" /> I'm Ishan Bakshi</h1>
-<h3 align="center">An Aspiring Data Scientist</h3>
+<h3 align="center">Data Scientist</h3>
 
 <!--- <div id="header" align="center">
 <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="Computer man" width="100"/> 
@@ -67,11 +67,7 @@ My programming, statistics & finance coursework has given me the analytical skil
 <a href="https://instagram.com/ishan_bakshi" target="blank"><img align="center" src="https://github.com/ishanbakshi91/ishanbakshi91/assets/83632532/dd8c7e07-1e6e-4981-891c-3160501887b6" alt="ishan_bakshi" height="50" width="50" /></a>
 <a href="https://medium.com/@ishan_bakshi" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=110611&format=png&color=000000" alt="@ishan_bakshi" height="50" width="50" /></a>
 <a href="mailto:ishanbakshi91@gmail.com"><img align="center"width="40px" src="https://github.com/ishanbakshi91/ishanbakshi91/assets/83632532/f95b7827-81e4-4f11-8e2f-63ee2487a9fe"  height="50" width="50" /></a>
-
-
-
-
-
+<a href="https://linktr.ee/ds_ishan"  target="blank"><img align="center" src="https://github.com/user-attachments/assets/6101dfca-50f2-42f1-bca3-129e3dda5aa9" alt="My Portfolio" height="40" width="40" /></a>
 
 
 
