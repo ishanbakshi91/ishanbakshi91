@@ -265,5 +265,5 @@ My programming, statistics & finance coursework has given me the analytical skil
 
 
   
-
+<!--- ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> GitHub Stats:  --->
 
