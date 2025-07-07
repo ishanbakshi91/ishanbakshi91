@@ -25,9 +25,9 @@ width="55" /> I'm Ishan Bakshi</h1>
 
 - 🌱 Data is the new Oil. The sheer power of data drove me to initiate my journey into the mysterious world of Data Science.
 
-<!--- - Like many others, my initial interest lay in building real-world applications, I was fascinated by building logic for simple programming problems. I realized my passion upon switching to Data analytics. Data Science has been my primary point of interest for a year now, and my zest lies in Machine Learning. I am currently working as an associate data scientist.
+<!--- - Like many others, my initial interest lay in building real-world applications. I was fascinated by building logic for simple programming problems. I realised my passion upon switching to Data analytics. Data Science has been my primary point of interest for a year now, and my zest lies in Machine Learning. I am currently working as an associate data scientist.
 
-My programming, statistics & finance coursework has given me the analytical skills I apply to diverse business scenarios. My zeal to learn, coupled with my ability to collaborate and accomplish goals makes me well-suited for a career in the field of Data Science and business analytics. I'm looking forward to being interviewed to share more about my experience and the skills I could bring to any company. --->
+My programming, statistics, and finance coursework have given me the analytical skills I apply to diverse business scenarios. My zeal to learn, combined with my ability to collaborate and accomplish goals, makes me well-suited for a career in the field of Data Science and analytics. I'm looking forward to being interviewed to share more about my experience and the skills I could bring to any company. --->
 
 
 
@@ -40,7 +40,10 @@ My programming, statistics & finance coursework has given me the analytical skil
 
 - 📫 How to reach me **ishanbakshi91@gmail.com**   ---> 
 
-### How do I help machines "learn"? <img target="_blank" src="https://i.imgur.com/tTJgCkz.png" height = "30.5"/>
+### How do I help machines "learn"? ![image](https://github.com/user-attachments/assets/601f9557-309e-48ac-8a7b-01b217272827)
+
+
+
 
 <img target="_blank" src="https://i.imgur.com/UqXfMdN.png" width = "17"/>Working with Machine Learning Algorithms (Linear, Logistic, Ridge, Lasso, KMeans, Random Forests, XGBoost, Neural Networks, etc...).<br>
 <img target="_blank" src="https://i.imgur.com/UqXfMdN.png" width = "17"/>Working on data gathering pipelines.<br>
@@ -57,7 +60,12 @@ My programming, statistics & finance coursework has given me the analytical skil
 
 ---
                                      
-# 🌐Connect with me:<img target="_blank" src="https://i.imgur.com/y6gRBGy.png" height = "30.7"/>
+# 🌐Connect with me:<img target="_blank"> ![image](https://github.com/user-attachments/assets/183fa5c9-75a2-40c4-950c-765b1098d551)
+
+
+
+
+
 <p align="left">
 <a href="https://twitter.com/ishan_bakshi" target="blank"><img align="center" src="https://github.com/ishanbakshi91/ishanbakshi91/assets/83632532/af0bb472-ff69-414c-b66c-1f67c47bb7a4" alt="ishan_bakshi" height="50" width="50" /></a>
 <!--- <a href="https://www.linkedin.com/in/ishanbakshi/"><img align="center" width="35px" height="35px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"  /></a> --->
@@ -184,10 +192,10 @@ My programming, statistics & finance coursework has given me the analytical skil
 
 ## :notebook_with_decorative_cover: Skill Elaboration
 
-| Skill | Technologies used to work or Known | 
+| Skill | Technologies used to work with or Known | 
 |:--|:------------|
 | Python | Numpy, Pandas, Spark, Matplotlib, Seaborn, Plotly, Scikit-Learn, pickle, Keras, Open-cv, Tensorflow, Pytorch |
-| Machine Learning | Linear Regression, Logistic Regression, Decision Tree, Support vector machine, Naive Bayes, Ensemble technique, Hyperparameter tunning  |
+| Machine Learning | Linear Regression, Logistic Regression, Decision Tree, Support Vector Machine, Naive Bayes, Ensemble Technique, Hyperparameter Tuning  |
 | Deep Learning | Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, LeNET, AlexNet, VGG, Resnet, InceptionNet |
 | Computer Vision | RCNN family , Yolo family , SSD, Object segmentation(Mask-RCNN) , Object Tracking  |
 | Natural Language Processing | Encoder-Decoder, Self Attention, Transformer, Transfer Learning models |--->
