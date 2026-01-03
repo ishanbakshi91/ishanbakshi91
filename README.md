@@ -258,11 +258,11 @@ My programming, statistics, and finance coursework have given me the analytical 
 
 
 
- ### 😂 Random Dev Meme
+ <!--- ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
- <!---<img src="https://codermemes.vercel.app" style="height: 400px;"/>  
+<img src="https://codermemes.vercel.app" style="height: 400px;"/>  
 
 
 <img src="https://codermemes.vercel.app/" style="height: 400px;"/>   --->
