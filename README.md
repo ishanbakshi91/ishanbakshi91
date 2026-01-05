@@ -202,7 +202,7 @@ My programming, statistics, and finance coursework have given me the analytical 
 
 <p>
 <h2 align="center">:octocat: Github Statistics </h2>
-
+<!---
 |💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
 |-----------------------------------|----------------------------------|
 |![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbakshi91&show_icons=true&theme=midnight-purple&layout=compact&hide_title=false)|![Ishan's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ishanbakshi91&theme=midnight-purple&hide_border=false)
