@@ -21,7 +21,7 @@ width="55" /> I'm Ishan Bakshi</h1>
 
 # About Me 🚀
 
-- 🔭 I am a ***Data Science*** enthusiast. I have insights into ***Python, SQL, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, GenAI, and MLOps*** and I am extending myself towards ***Data Engineering, Gen AI, Cloud and MLOps*** to achieve a level of ***Full-Stack Data Scientist***.
+- 🔭 I am a ***Data*** enthusiast. I have insights into ***Python, SQL, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, GenAI, and MLOps***, and I am extending myself towards ***Data Engineering, Gen AI, Cloud and MLOps*** to achieve a level of ***Full-Stack Data Scientist***.
 
 - 🌱 Data is the new Oil. The sheer power of data drove me to initiate my journey into the mysterious world of Data Science.
 
@@ -31,16 +31,16 @@ My programming, statistics, and finance coursework have given me the analytical 
 
 
 
-- 👯 I’m looking to collaborate on Projects and Tech articles.
+  <!--- - 👯 I’m looking to collaborate on Projects and Tech articles. --->
    <!--- related to Machine learning or Deep Learning. --->
 
-- 💬 Talk to me about Python, Machine Learning, SQL, Freelancing opportunities, Open Source, NLP, Deep Learning, Statistics, Mathematics
+  <!--- - 💬 Talk to me about Python, Machine Learning, SQL, Freelancing opportunities, Open Source, NLP, Deep Learning, Statistics, Mathematics --->
 
 <!--- - 👨‍💻 All of my projects are available in my [**Portfolio**](https://ishanbakshi91.github.io/Portfolio/)  
 
 - 📫 How to reach me **ishanbakshi91@gmail.com**   ---> 
 
-### How do I help machines "learn"? ![image](https://github.com/user-attachments/assets/601f9557-309e-48ac-8a7b-01b217272827)
+  <!--- ### How do I help machines "learn"? ![image](https://github.com/user-attachments/assets/601f9557-309e-48ac-8a7b-01b217272827)
 
 
 
@@ -53,36 +53,36 @@ My programming, statistics, and finance coursework have given me the analytical 
 <img target="_blank" src="https://i.imgur.com/UqXfMdN.png" width = "17"/>Writing clean & understandable code.<br>
 <img target="_blank" src="https://i.imgur.com/UqXfMdN.png" width = "17"/>Designing informative & beautiful visualizations from the data.<br>
 
->Looking for a driven person who can serve as a DATA SCIENTIST, or AI/ML ENGINEER with annoying attention to detail and a voracious appetite to learn new things and grow? You've got me!
+>Looking for a driven person who can serve as a DATA SCIENTIST, or AI/ML ENGINEER with annoying attention to detail and a voracious appetite to learn new things and grow? You've got me! --->
 
 
  <!--- <img align="right" alt="Coding" width="400" src="https://w0.peakpx.com/wallpaper/106/535/HD-wallpaper-pc-gamer.jpg"> --->
 
 ---
                                      
-# 🌐Connect with me:<img target="_blank"> ![image](https://github.com/user-attachments/assets/183fa5c9-75a2-40c4-950c-765b1098d551)
+<!--- # 🌐Connect with me:<img target="_blank"> ![image](https://github.com/user-attachments/assets/183fa5c9-75a2-40c4-950c-765b1098d551)
 
 
 
 
 
 <p align="left">
-<a href="https://twitter.com/ishan_bakshi" target="blank"><img align="center" src="https://github.com/ishanbakshi91/ishanbakshi91/assets/83632532/af0bb472-ff69-414c-b66c-1f67c47bb7a4" alt="ishan_bakshi" height="50" width="50" /></a>
+<a href="https://twitter.com/ishan_bakshi" target="blank"><img align="center" src="https://github.com/ishanbakshi91/ishanbakshi91/assets/83632532/af0bb472-ff69-414c-b66c-1f67c47bb7a4" alt="ishan_bakshi" height="50" width="50" /></a> --->
 <!--- <a href="https://www.linkedin.com/in/ishanbakshi/"><img align="center" width="35px" height="35px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"  /></a> --->
-<a href="https://linkedin.com/in/ishanbakshi" target="blank"><img align="center" src="https://github.com/ishanbakshi91/ishanbakshi91/assets/83632532/76bc03be-d803-4e11-b794-bbd0f7ac5d82" alt="ishanbakshi" height="50" width="50" /></a>
+   <!--- <a href="https://linkedin.com/in/ishanbakshi" target="blank"><img align="center" src="https://github.com/ishanbakshi91/ishanbakshi91/assets/83632532/76bc03be-d803-4e11-b794-bbd0f7ac5d82" alt="ishanbakshi" height="50" width="50" /></a>
 <a href="https://kaggle.com/ishanbakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ishanbakshi" height="35" width="40" /></a>
 <a href="https://fb.com/ishanbakshi91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishanbakshi91" height="40" width="40" /></a>
 <a href="https://instagram.com/ishan_bakshi" target="blank"><img align="center" src="https://github.com/ishanbakshi91/ishanbakshi91/assets/83632532/dd8c7e07-1e6e-4981-891c-3160501887b6" alt="ishan_bakshi" height="50" width="50" /></a>
 <a href="https://medium.com/@ishan_bakshi" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=110611&format=png&color=000000" alt="@ishan_bakshi" height="50" width="50" /></a>
 <a href="mailto:ishanbakshi91@gmail.com"><img align="center"width="40px" src="https://github.com/ishanbakshi91/ishanbakshi91/assets/83632532/f95b7827-81e4-4f11-8e2f-63ee2487a9fe"  height="50" width="50" /></a>
-<a href="https://linktr.ee/ds_ishan"  target="blank"><img align="center" src="https://github.com/user-attachments/assets/6101dfca-50f2-42f1-bca3-129e3dda5aa9" alt="My Portfolio" height="40" width="40" /></a>
+<a href="https://linktr.ee/ds_ishan"  target="blank"><img align="center" src="https://github.com/user-attachments/assets/6101dfca-50f2-42f1-bca3-129e3dda5aa9" alt="My Portfolio" height="40" width="40" /></a>  --->
 
 
 
 </p>
 
-# 💻 Tech Stack
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+  <!--- # 💻 Tech Stack
+<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p> --->
 
 <!---
 ## Databases ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -165,14 +165,15 @@ My programming, statistics, and finance coursework have given me the analytical 
   
 
 
-<!--- ## 📟 GitHub Statistics
+ <!--- ## 📟 GitHub Statistics --->
+ <h2 align="center">:octocat: Github Statistics </h2>
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ishanbakshi91&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanbakshi91&theme=vue" />
 	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ishanbakshi91&layout=compact&exclude_lang=java+r&theme=vue" />
 
 
-</p> --->
+</p> 
 
 <!---## :wrench: Job Responsiblities
 
@@ -200,8 +201,8 @@ My programming, statistics, and finance coursework have given me the analytical 
 | Computer Vision | RCNN family , Yolo family , SSD, Object segmentation(Mask-RCNN) , Object Tracking  |
 | Natural Language Processing | Encoder-Decoder, Self Attention, Transformer, Transfer Learning models |--->
 
-<p>
-<h2 align="center">:octocat: Github Statistics </h2>
+<!--- <p>
+<h2 align="center">:octocat: Github Statistics </h2> --->
 <!---
 |💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
 |-----------------------------------|----------------------------------|
